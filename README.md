@@ -18,6 +18,14 @@ wget -O manage_nginx.sh "https://raw.githubusercontent.com/gweid/sh-scripts/main
 
 
 
+### 申请证书
+
+```shell
+bash <(curl -Lso- https://raw.githubusercontent.com/gweid/sh-scripts/main/acme.sh)
+```
+
+
+
 ### 工具合集脚本
 
 ```shell
