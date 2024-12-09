@@ -9,6 +9,7 @@ set -e
 # 函数：显示菜单
 show_menu() {
     echo "===========**Docker 和 Docker Compose 管理脚本**==================="
+    echo ""
     echo "1. 安装 Docker 和 Docker Compose"
     echo "2. 卸载 Docker 和 Docker Compose"
     echo "3. 查询安装情况和运行状态"

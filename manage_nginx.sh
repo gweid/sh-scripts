@@ -282,6 +282,7 @@ uninstall_nginx() {
 # 显示菜单
 while true; do
   echo "======**nginx反代和tls的一键脚本**================"
+  echo ""
   echo "1. 安装 Nginx 及配置反向代理和 TLS"
   echo "2. 添加新的反向代理配置"
   echo "3. 修改现有的反向代理配置"
