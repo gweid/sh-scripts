@@ -39,3 +39,13 @@ curl -fsSL https://raw.githubusercontent.com/gweid/sh-scripts/main/ssh_tool.sh -
 ```shell
 curl -fsSL https://raw.githubusercontent.com/gweid/sh-scripts/main/ip46.sh -o ip46.sh && chmod +x ip46.sh && ./ip46.sh
 ```
+
+
+
+
+
+### 爱盼影视
+
+```shell
+curl -fsSL https://raw.githubusercontent.com/gweid/sh-scripts/main/aipan_install.sh -o aipan_install.sh && chmod +x aipan_install.sh && ./aipan_install.sh
+```
